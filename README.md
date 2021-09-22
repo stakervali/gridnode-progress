@@ -69,3 +69,4 @@
 | 1.07.2021 | stakervali | 6| For optimization I have removed material design bundle import and added custom components for necessary icons. Fixed double scrolling on tutorial page. Added new grinart images to contact page. Fixed a bug on walletcheck when user enters an invalid grin address. | I will clean up link references to test server ip and make a PR for frontend and backend. | --- | Yes | 
 | 2.07.2021 | stakervali | 2| I have clean up the code for backend and frontend. I have created PR requests | Will deploy to production with mcmMike | --- | Yes | 
 | 15.07.2021 | stakervali | 1 | I have written a draft text on medium for july 2021 update | --- | --- | No |
+| 25.08.2021 | stakervali | 7 | I added blockstats api endpoint to backend and did related frontend changes. I have deployed and tested on test server | --- | --- | No|
